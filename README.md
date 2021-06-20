@@ -1,2 +1,2 @@
-# wordpress-plugin-table-demo
+# wordpress-plugin-demo-table
 Демо плагин кастомной таблицы в админке WP
